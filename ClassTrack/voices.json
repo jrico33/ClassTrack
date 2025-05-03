@@ -1,0 +1,119 @@
+{
+  "T1": {
+    "name": "Arturo",
+    "samples": [
+      "recordings/T1_s1.wav",
+      "recordings/T1_s2.wav",
+      "recordings/T1_s3.wav",
+      "recordings/T1_s4.wav"
+    ]
+  },
+  "1": {
+    "name": "Joaquin Cimas",
+    "samples": [
+      "recordings/1_s1.wav",
+      "recordings/1_s2.wav",
+      "recordings/1_s3.wav",
+      "recordings/1_s4.wav"
+    ]
+  },
+  "2": {
+    "name": "David Fulga",
+    "samples": [
+      "recordings/2_s1.wav",
+      "recordings/2_s2.wav",
+      "recordings/2_s3.wav",
+      "recordings/2_s4.wav"
+    ]
+  },
+  "3": {
+    "name": "Rosa Garza",
+    "samples": [
+      "recordings/3_s1.wav",
+      "recordings/3_s2.wav",
+      "recordings/3_s3.wav",
+      "recordings/3_s4.wav"
+    ]
+  },
+  "4": {
+    "name": "Guillermo Pregonas",
+    "samples": [
+      "recordings/4_s1.wav",
+      "recordings/4_s2.wav",
+      "recordings/4_s3.wav",
+      "recordings/4_s4.wav"
+    ]
+  },
+  "5": {
+    "name": "Juan Garc\u00eda",
+    "samples": [
+      "recordings/5_s1.wav",
+      "recordings/5_s2.wav",
+      "recordings/5_s3.wav",
+      "recordings/5_s4.wav"
+    ]
+  },
+  "6": {
+    "name": "Claudia \u00c1lvarez",
+    "samples": [
+      "recordings/6_s1.wav",
+      "recordings/6_s2.wav",
+      "recordings/6_s3.wav",
+      "recordings/6_s4.wav"
+    ]
+  },
+  "7": {
+    "name": "Carmen Hern\u00e1ndez",
+    "samples": [
+      "recordings/7_s1.wav",
+      "recordings/7_s2.wav",
+      "recordings/7_s3.wav",
+      "recordings/7_s4.wav"
+    ]
+  },
+  "8": {
+    "name": "Lola G\u00f3mez",
+    "samples": [
+      "recordings/8_s1.wav",
+      "recordings/8_s2.wav",
+      "recordings/8_s3.wav",
+      "recordings/8_s4.wav"
+    ]
+  },
+  "9": {
+    "name": "Blanca Mart\u00edn",
+    "samples": [
+      "recordings/9_s1.wav",
+      "recordings/9_s2.wav",
+      "recordings/9_s3.wav",
+      "recordings/9_s4.wav"
+    ]
+  },
+  "10": {
+    "name": "Pedro Pardo",
+    "samples": [
+      "recordings/10_s1.wav",
+      "recordings/10_s2.wav",
+      "recordings/10_s3.wav",
+      "recordings/10_s4.wav"
+    ]
+  },
+  "11": {
+    "name": "Francisco Inestrosa",
+    "samples": [
+      "recordings/11_s1.wav",
+      "recordings/11_s2.wav",
+      "recordings/11_s3.wav",
+      "recordings/11_s4.wav"
+    ]
+  },
+  "12": {
+    "name": "Antuan Gutierrez",
+    "samples": [
+      "recordings/12_s1.wav",
+      "recordings/12_s2.wav",
+      "recordings/12_s3.wav",
+      "recordings/12_s4.wav"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+start_time,end_time,student_id,name,avg_volume,duration_seconds,is_overlapping,was_teacher_before,overlapped_with_teacher,unique_speaker_count,tag
+1745767846.5166001,1745767849.760903,3,Rosa Pardo,0.19406382739543915,3.24,1,1,1,0,participation
+1745767849.7615528,1745767852.9735198,3,Rosa Pardo,0.7244214415550232,3.21,0,0,0,0,participation
+1745767852.974328,1745767856.180149,5,Juan García,0.2947359085083008,3.21,1,0,0,0,disruption
+1745767859.414766,1745767862.634387,5,Juan García,0.07843789458274841,3.22,1,1,1,0,participation

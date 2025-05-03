@@ -1,0 +1,4 @@
+start_time,end_time,student_id,name,avg_volume,duration_seconds,is_overlapping,was_teacher_before,overlapped_with_teacher,unique_speaker_count,tag
+1745774931.337066,1745774934.620579,5,Juan García,0.07500501722097397,3.28,0,0,0,0,disruption
+1745774934.621443,1745774937.870493,1,Javier Sandemeterio,0.07369744777679443,3.25,1,0,0,0,disruption
+1745774937.87104,1745774941.1188722,12,Antuan Gutierrez,0.08421682566404343,3.25,1,0,0,0,disruption

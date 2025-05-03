@@ -1,0 +1,5 @@
+start_time,end_time,student_id,name,avg_volume,duration_seconds,is_overlapping,was_teacher_before,overlapped_with_teacher,unique_speaker_count,tag
+1745923543.662056,1745923546.988805,1,Javier Sandemeterio,0.0679878443479538,3.33,0,0,0,2,participation
+1745923544.284859,1745923547.4885702,1,Javier Sandemeterio,0.06019687280058861,3.2,0,0,0,0,participation
+1745923546.989985,1745923550.191242,1,Javier Sandemeterio,0.018959037959575653,3.2,0,0,0,0,participation
+1745923547.4891882,1745923550.6688519,1,Javier Sandemeterio,0.018661310896277428,3.18,0,0,0,0,participation

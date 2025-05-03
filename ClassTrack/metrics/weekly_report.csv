@@ -1,0 +1,2 @@
+timestamp,accuracy,precision,recall,f1,active_learning_ready
+2025-04-27 19:53:17,0.667,1.0,0.5,0.667,False
